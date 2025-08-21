@@ -35,7 +35,7 @@ int main() {
 
 	glfwWindowHint(GLFW_RESIZABLE, GL_FALSE);
 
-	GLFWwindow *window = glfwCreateWindow(WIDTH, HEIGHT, "Proyecciones y transformaciones basicas", nullptr, nullptr);
+	GLFWwindow *window = glfwCreateWindow(WIDTH, HEIGHT, "Practica 3 - Franco Ruiz - Proyecciones y transformaciones basicas", nullptr, nullptr);
 
 	int screenWidth, screenHeight;
 
