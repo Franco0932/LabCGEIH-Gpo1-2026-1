@@ -270,19 +270,20 @@ int main() {
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glDrawArrays(GL_TRIANGLES, 0, 36);
 
-		//Cubo centro abajo
+		//Cubo centro derecha
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(3.9, -2.6f, 0.0f));
+		model = glm::translate(model, glm::vec3(4.1, -2.8f, 0.0f));
 		model = glm::rotate(model, 4.7f, glm::vec3(0.0f, 1.0f, 0.0f));// use to compare orthographic and perspective projection
-		model = glm::rotate(model, 0.0f, glm::vec3(1.0f, 0.0f, 0.0f));
+		model = glm::rotate(model, -0.1f, glm::vec3(0.0f, 0.0f, 1.0f));
 		model = glm::scale(model, glm::vec3(3.5f, 3.5f, 3.5f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glDrawArrays(GL_TRIANGLES, 0, 36);
 
-		//Cubo centro abajo
+		//Cubo centro izquierda
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(-3.9, -2.6f, 0.0f));
+		model = glm::translate(model, glm::vec3(-4.1, -2.8f, 0.0f));
 		model = glm::rotate(model, 7.95f, glm::vec3(0.0f, 1.0f, 0.0f));// use to compare orthographic and perspective projection
+		model = glm::rotate(model, 0.15f, glm::vec3(0.0f, 0.0f, 1.0f));
 		model = glm::scale(model, glm::vec3(3.5f, 3.5f, 3.5f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glDrawArrays(GL_TRIANGLES, 0, 36);
