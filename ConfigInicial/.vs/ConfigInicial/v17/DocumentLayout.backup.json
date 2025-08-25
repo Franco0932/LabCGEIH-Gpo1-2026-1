@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Franco\\Desktop\\2026-1\\LabCGEIH-Gpo1-2026-1\\ConfigInicial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B4720DD-CAB6-4C8D-9C76-C63646296541}|ConfigInicial\\ConfigInicial.vcxproj|C:\\Users\\Franco\\Desktop\\2026-1\\LabCGEIH-Gpo1-2026-1\\ConfigInicial\\ConfigInicial\\Main_P3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3B4720DD-CAB6-4C8D-9C76-C63646296541}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\Main_P3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3B4720DD-CAB6-4C8D-9C76-C63646296541}|ConfigInicial\\ConfigInicial.vcxproj|C:\\Users\\Franco\\Desktop\\2026-1\\LabCGEIH-Gpo1-2026-1\\ConfigInicial\\ConfigInicial\\Main_Modelado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B4720DD-CAB6-4C8D-9C76-C63646296541}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\Main_Modelado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +19,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main_P3.cpp",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\2026-1\\LabCGEIH-Gpo1-2026-1\\ConfigInicial\\ConfigInicial\\Main_P3.cpp",
-              "RelativeDocumentMoniker": "ConfigInicial\\Main_P3.cpp",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\2026-1\\LabCGEIH-Gpo1-2026-1\\ConfigInicial\\ConfigInicial\\Main_P3.cpp",
-              "RelativeToolTip": "ConfigInicial\\Main_P3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "Main_Modelado.cpp",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\2026-1\\LabCGEIH-Gpo1-2026-1\\ConfigInicial\\ConfigInicial\\Main_Modelado.cpp",
+              "RelativeDocumentMoniker": "ConfigInicial\\Main_Modelado.cpp",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\2026-1\\LabCGEIH-Gpo1-2026-1\\ConfigInicial\\ConfigInicial\\Main_Modelado.cpp",
+              "RelativeToolTip": "ConfigInicial\\Main_Modelado.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-21T19:43:41.766Z",
+              "WhenOpened": "2025-08-25T22:55:57.539Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
