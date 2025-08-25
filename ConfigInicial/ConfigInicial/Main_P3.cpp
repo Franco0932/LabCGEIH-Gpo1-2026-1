@@ -1,6 +1,6 @@
 /*
 Ruiz Godoy Franco
-Previo 03
+Práctica 03
 317159019
 */
 
